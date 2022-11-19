@@ -1,2 +1,3 @@
-# algoritimoelogica
- Estudo de algorítimo e lógica de programação.
+# Estudo de algoritimo e lógica.
+ ___
+ Estudo de algoritimo e lógica de programação.
